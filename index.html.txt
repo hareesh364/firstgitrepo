@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1>welcome to git of my project</h1>
-<h2>2nd welcome</h2>
+<h2>2nd welcome 2</h2>
 </body>
 <html>
